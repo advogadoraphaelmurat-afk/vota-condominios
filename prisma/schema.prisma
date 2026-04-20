@@ -1,0 +1,150 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+model SystemAdmin {
+  id        String   @id @default(cuid())
+  email     String   @unique
+  password  String
+  createdAt DateTime @default(now())
+}
+model Building {
+  id          String   @id @default(cuid())
+  name        String
+  address     String?
+  cnpj        String?
+  active      Boolean  @default(true)
+  maxSubUnits Int      @default(0)
+  useFractionalWeight Boolean  @default(false)
+  inviteCode          String?  @unique
+  createdAt           DateTime @default(now())
+
+  users               User[]
+  subUnits            SubUnit[]
+  notices             Notice[]
+  votings             Voting[]
+  messages            Message[]
+  supportTickets      SupportTicket[]
+}
+
+model User {
+  id           String   @id @default(cuid())
+  email        String   @unique
+  passwordHash String
+  name         String
+  role         String   // SINDICO, MORADOR
+  status       String   @default("APPROVED") // PENDING, APPROVED (Default APPROVED para seed/admin)
+  buildingId   String
+  createdAt    DateTime @default(now())
+
+  building     Building @relation(fields: [buildingId], references: [id], onDelete: Cascade)
+  subUnits     SubUnit[] // Um usuário pode ter mais de uma sub-unidade
+  notices      Notice[]
+  votings      Voting[]
+  messages     Message[]
+  supportTickets SupportTicket[]
+}
+model SubUnit {
+  id         String   @id @default(cuid())
+  identifier String   // ex: Apto 101
+  buildingId String
+  userId     String?  // Pode estar vazia até o morador associar
+  fractionalWeight Float    @default(1.0)
+  
+  building   Building @relation(fields: [buildingId], references: [id], onDelete: Cascade)
+  user       User?    @relation(fields: [userId], references: [id])
+  votes      Vote[]
+  noticesTo  Notice[] @relation("NoticesToSubUnit")
+}
+
+model Notice {
+  id             String   @id @default(cuid())
+  title          String
+  content        String
+  buildingId     String
+  authorId       String
+  targetSubUnitId String? // Se null = para o prédio todo
+  createdAt      DateTime @default(now())
+
+  building       Building  @relation(fields: [buildingId], references: [id], onDelete: Cascade)
+  author         User      @relation(fields: [authorId], references: [id])
+  targetSubUnit  SubUnit?  @relation("NoticesToSubUnit", fields: [targetSubUnitId], references: [id])
+}
+
+model Voting {
+  id          String   @id @default(cuid())
+  title       String
+  description String
+  startDate   DateTime
+  endDate     DateTime
+  status      String   @default("OPEN") // OPEN, CLOSED
+  quorumType  String   @default("SIMPLES") // SIMPLES, ABSOLUTA, DOIS_TERCOS, TRES_QUARTOS, UNANIMIDADE
+  buildingId  String
+  authorId    String
+  createdAt   DateTime @default(now())
+
+  building    Building     @relation(fields: [buildingId], references: [id], onDelete: Cascade)
+  author      User         @relation(fields: [authorId], references: [id])
+  options     VoteOption[]
+  votes       Vote[]
+}
+
+model VoteOption {
+  id       String @id @default(cuid())
+  text     String
+  votingId String
+
+  voting   Voting @relation(fields: [votingId], references: [id], onDelete: Cascade)
+  votes    Vote[]
+}
+
+model Vote {
+  id         String   @id @default(cuid())
+  timestamp  DateTime @default(now())
+  votingId   String
+  optionId   String
+  subUnitId  String
+
+  voting   Voting     @relation(fields: [votingId], references: [id], onDelete: Cascade)
+  option   VoteOption @relation(fields: [optionId], references: [id], onDelete: Cascade)
+  subUnit  SubUnit    @relation(fields: [subUnitId], references: [id], onDelete: Cascade)
+
+  @@unique([votingId, subUnitId]) // Uma subUnidade vota apenas uma vez por votação
+}
+
+model Message {
+  id         String   @id @default(cuid())
+  subject    String
+  content    String
+  response   String?  // Resposta opcional do síndico
+  isResolved Boolean  @default(false)
+  buildingId String
+  authorId   String
+  createdAt  DateTime @default(now())
+
+  building   Building @relation(fields: [buildingId], references: [id], onDelete: Cascade)
+  author     User     @relation(fields: [authorId], references: [id], onDelete: Cascade)
+}
+
+model SupportTicket {
+  id         String   @id @default(cuid())
+  subject    String
+  content    String
+  response   String?
+  status     String   @default("OPEN") // OPEN, IN_PROGRESS, CLOSED
+  buildingId String
+  authorId   String
+  createdAt  DateTime @default(now())
+
+  building   Building @relation(fields: [buildingId], references: [id], onDelete: Cascade)
+  author     User     @relation(fields: [authorId], references: [id], onDelete: Cascade)
+}

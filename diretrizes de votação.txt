@@ -1,0 +1,260 @@
+# Leis que Regulamentam as Votações em Condomínios Edilícios no Brasil
+
+## 📚 Fontes Legais (Hierarquia)
+
+A legislação condominial segue uma pirâmide hierárquica: no topo estão as **leis federais** (Código Civil e Lei 4.591/64), seguidas das **leis estaduais e municipais**, depois a **Convenção do Condomínio** e, por fim, o **Regimento Interno**. As leis de um nível superior sempre prevalecem sobre as de nível inferior.
+
+As principais normas são:
+
+**Lei nº 10.406/2002 — Código Civil** (arts. 1.331 a 1.358) — norma geral principal
+**Lei nº 4.591/1964** — Lei dos Condomínios, ainda vigente no que não conflita com o CC
+**Lei nº 14.309/2022** — regulamenta assembleias virtuais e sessões permanentes
+**Lei nº 14.405/2022** — altera o quórum para mudança de destinação do imóvel
+
+---
+
+## 🗳️ Regras de Votação — Artigos do Código Civil na Íntegra
+
+### Direito de Voto — Art. 1.335, inciso III
+
+**Art. 1.335.** São direitos do condômino: (...) **III – votar nas deliberações da assembleia e delas participar, estando quite.**
+
+Ou seja, o condômino inadimplente **perde o direito de voto**.
+
+---
+
+### Multa por descumprimento de deveres — Art. 1.336, §2º e Art. 1.337
+
+**Art. 1.336, §2º.** O condômino que não cumprir qualquer dos deveres estabelecidos nos incisos II a IV pagará a multa prevista no ato constitutivo ou na convenção, não podendo ela ser superior a cinco vezes o valor de suas contribuições mensais, independentemente das perdas e danos que se apurarem; não havendo disposição expressa, caberá à **assembleia geral, por dois terços no mínimo dos condôminos restantes**, deliberar sobre a cobrança da multa.
+
+**Art. 1.337.** O condômino, ou possuidor, que não cumpre reiteradamente com os seus deveres perante o condomínio poderá, por **deliberação de três quartos dos condôminos restantes**, ser constrangido a pagar multa correspondente até ao quíntuplo do valor atribuído à contribuição para as despesas condominiais, conforme a gravidade das faltas e a reiteração, independentemente das perdas e danos que se apurem.
+
+Parágrafo único. O condômino ou possuidor que, por seu reiterado comportamento antissocial, gerar incompatibilidade de convivência com os demais condôminos ou possuidores, poderá ser constrangido a pagar **multa correspondente ao décuplo** do valor atribuído à contribuição para as despesas condominiais, até ulterior deliberação da assembleia.
+
+---
+
+### Obras no condomínio — Art. 1.341, 1.342 e 1.343
+
+**Obras necessárias** (conservação do imóvel): podem ser realizadas pelo síndico independentemente de assembleia. **Obras úteis** (que aumentam o uso do bem): aprovação da **maioria dos condôminos** (maioria simples dos presentes). **Obras voluptuárias** (embelezamento/lazer): aprovação de **dois terços dos condôminos**.
+
+**Art. 1.343.** A construção de outro pavimento, ou, no solo comum, de outro edifício, destinado a conter novas unidades imobiliárias, depende da aprovação da **unanimidade dos condôminos**.
+
+---
+
+### Destituição do Síndico — Art. 1.349
+
+**Art. 1.349.** A assembleia, especialmente convocada para o fim estabelecido no §2º do artigo antecedente, poderá, pelo voto da **maioria absoluta de seus membros**, destituir o síndico que praticar irregularidades, não prestar contas, ou não administrar convenientemente o condomínio.
+
+---
+
+### Assembleia Ordinária Anual — Art. 1.350
+
+**Art. 1.350.** Convocará o síndico, anualmente, reunião da assembleia dos condôminos, na forma prevista na convenção, a fim de **aprovar o orçamento das despesas, as contribuições dos condôminos e a prestação de contas**, e eventualmente eleger-lhe o substituto e alterar o regimento interno.
+
+**§1º** Se o síndico não convocar a assembleia, **um quarto dos condôminos** poderá fazê-lo.
+
+**§2º** Se a assembleia não se reunir, o juiz decidirá, a requerimento de qualquer condômino.
+
+---
+
+### Alteração da Convenção e Mudança de Destinação — Art. 1.351
+
+**Art. 1.351.** Depende da aprovação de **2/3 (dois terços) dos votos dos condôminos** a alteração da convenção, bem como a mudança da destinação do edifício ou da unidade imobiliária. *(Redação dada pela Lei nº 14.405, de 2022)*
+
+> ⚠️ Antes da Lei 14.405/2022, a mudança de destinação exigia **unanimidade**. A nova lei reduziu esse quórum para **dois terços**, democratizando o processo.
+
+---
+
+### Quórum Geral das Assembleias — Arts. 1.352 e 1.353
+
+**Art. 1.352.** Salvo quando exigido quórum especial, as deliberações da assembleia serão tomadas, em **primeira convocação**, por **maioria de votos dos condôminos presentes que representem pelo menos metade das frações ideais**.
+
+Parágrafo único. Os votos serão proporcionais às frações ideais no solo e nas outras partes comuns pertencentes a cada condômino, salvo disposição diversa da convenção de constituição do condomínio.
+
+**Art. 1.353.** Em **segunda convocação**, a assembleia poderá deliberar por **maioria dos votos dos presentes**, salvo quando exigido quórum especial.
+
+---
+
+### Convocação de Todos os Condôminos — Art. 1.354
+
+**Art. 1.354.** A assembleia não poderá deliberar se todos os condôminos não forem convocados para a reunião.
+
+---
+
+### Assembleias Eletrônicas (Virtuais) — Art. 1.354-A *(inserido pela Lei 14.309/2022)*
+
+**Art. 1.354-A.** A convocação, a realização e a deliberação de quaisquer modalidades de assembleia poderão dar-se de forma **eletrônica**, desde que:
+
+**I –** tal possibilidade não seja vedada na convenção de condomínio;
+**II –** sejam preservados aos condôminos os direitos de voz, de debate e de voto.
+
+**§1º** Do instrumento de convocação deverá constar que a assembleia será realizada por meio eletrônico, bem como as instruções sobre acesso, manifestação e forma de coleta de votos dos condôminos.
+
+**§2º** A administração do condomínio não poderá ser responsabilizada por problemas decorrentes dos equipamentos de informática ou da conexão à internet dos condôminos ou de seus representantes nem por quaisquer outras situações que não estejam sob o seu controle.
+
+**§3º** Somente após a somatória de todos os votos e a sua divulgação será lavrada a respectiva ata, também eletrônica, e encerrada a assembleia geral.
+
+A assembleia também poderá ser realizada de forma **híbrida**, com a presença física e virtual de condôminos concomitantemente no mesmo ato.
+
+---
+
+### Sessão Permanente (para quórum especial) — Art. 1.353, §§1º, 2º e 3º *(inserido pela Lei 14.309/2022)*
+
+Quando a deliberação exigir **quórum especial** previsto em lei ou em convenção e ele não for atingido, a assembleia poderá, por decisão da **maioria dos presentes**, autorizar o presidente a converter a reunião em **sessão permanente**, desde que cumulativamente:
+
+**I –** sejam indicadas a data e a hora da sessão em seguimento, que não poderá ultrapassar **60 (sessenta) dias**, e identificadas as deliberações pretendidas, em razão do quórum especial não atingido;
+**II –** fiquem expressamente convocados os presentes e sejam obrigatoriamente convocadas as unidades ausentes, na forma prevista em convenção;
+**III –** seja lavrada ata parcial, relativa ao segmento presencial da reunião da assembleia, da qual deverão constar as transcrições circunstanciadas de todos os argumentos até então apresentados relativos à ordem do dia, que deverá ser remetida aos condôminos ausentes;
+**IV –** seja dada continuidade às deliberações no dia e na hora designados, e seja a ata correspondente lavrada em seguimento à que estava parcialmente redigida, com a consolidação das deliberações.
+
+**§3º** A sessão permanente poderá ser prorrogada tantas vezes quantas necessárias, desde que a assembleia seja concluída no prazo total de **90 (noventa) dias**, contado da data de sua abertura inicial.
+
+---
+
+### Assembleias Extraordinárias — Art. 1.355
+
+**Art. 1.355.** Assembleias extraordinárias poderão ser convocadas pelo síndico ou por um quarto dos condôminos.
+
+---
+
+## 📊 Tabela-Resumo dos Quóruns
+
+| Matéria | Quórum Exigido |
+|---|---|
+| Deliberações gerais (1ª convocação) | Maioria dos presentes que representem ≥ 50% das frações ideais |
+| Deliberações gerais (2ª convocação) | Maioria simples dos presentes |
+| Obras úteis | Maioria simples |
+| Obras voluptuárias | 2/3 de todos os condôminos |
+| Multa por descumprimento reiterado | 3/4 dos condôminos restantes |
+| Multa por comportamento antissocial | Deliberação de assembleia (décuplo da taxa) |
+| Destituição do síndico | Maioria absoluta de todos os membros |
+| Alteração da Convenção | 2/3 de todos os condôminos |
+| Mudança de destinação do edifício/unidade | 2/3 de todos os condôminos *(desde 2022)* |
+| Nova edificação em solo comum | **Unanimidade** |
+| Sessão permanente (quando quórum não atingido) | Maioria dos presentes autoriza; prazo máximo: 90 dias |
+
+---
+
+> **Importante:** A Convenção do Condomínio pode estabelecer quóruns mais rigorosos, mas **nunca inferiores** aos previstos no Código Civil. Em caso de conflito, prevalece sempre a lei federal.
+---
+
+# Leis Estaduais e Municipais que Regulamentam Condomínios Edilícios no Rio de Janeiro
+
+É importante destacar que nenhuma lei estadual ou municipal pode regular diretamente as **votações e assembleias condominiais** — isso é matéria de Direito Civil federal (Código Civil). O que o Estado do RJ e o Município do Rio fazem é legislar sobre **obrigações acessórias**, segurança, infraestrutura e convivência dentro dos condomínios. Veja o panorama completo:
+
+---
+
+## 🏛️ LEIS ESTADUAIS (Estado do Rio de Janeiro — ALERJ)
+
+### 1. Lei Estadual nº 6.400/2013 — Autovistoria Predial Obrigatória
+
+Esta é a lei estadual mais importante para condomínios no RJ.
+
+**Art. 1º.** Fica instituída, no Estado do Rio de Janeiro, a obrigatoriedade de autovistoria **decenal** pelos condomínios ou proprietários dos prédios residenciais, comerciais e pelos governos do Estado e dos municípios, nos prédios públicos, incluindo estruturas, subsolos, fachadas, esquadrias, empenas, marquises e telhados, e em suas instalações elétricas, hidráulicas, sanitárias, eletromecânicas, de gás e de prevenção a fogo e escape e obras de contenção de encostas, com menos de 25 (vinte e cinco) anos de vida útil, a contar do "habite-se", por profissionais ou empresas habilitadas junto ao respectivo CREA ou CAU/RJ.
+
+**§1º** Os condomínios ou proprietários de prédios com **mais de 25 anos de vida útil** têm a obrigatoriedade de realizar autoinspeções **quinquenais**.
+
+**§2º** Os condomínios antes de a edificação completar cinco anos de conclusão da obra, no quarto ano, deverão exigir do incorporador, do construtor ou da empreiteira laudo de vistoria, nos termos do Art. 618 do Código Civil.
+
+**§5º** A autovistoria é obrigatória para edificações de **três ou mais pavimentos** e para aquelas que tiverem área construída **igual ou superior a 1.000 m²**, independentemente do número de pavimentos, e em todas as fachadas de qualquer prédio que tenha projeção de marquise ou varanda sobre o passeio público.
+
+Estão excluídos da obrigação: os prédios residenciais unifamiliares.
+
+**Art. 7º.** Em caso de descumprimento, o **síndico será pessoalmente responsabilizado**, solidariamente com o condomínio, por danos que a falta de reparos ou de manutenção da edificação venha a causar a moradores ou a terceiros, salvo se o descumprimento se der em razão de deliberação em Assembleia.
+
+> No Município do Rio de Janeiro, o Decreto Municipal nº 37.426/2013 regulamentou essa lei e determinou que edificações residenciais, comerciais e mistas do município devem realizar a vistoria técnica a **cada 5 anos**. A síndica/síndico tem o dever de contratar a inspeção dentro do prazo legal, sob risco de penalidades administrativas.
+
+---
+
+### 2. Lei Estadual nº 6.890/2014 — Autovistoria das Instalações de Gás (IPG)
+
+A Lei nº 6.890/2014 instituiu a **Inspeção Periódica de Gás (IPG)** obrigatória nos condomínios do Estado do RJ. Os consumidores de gás do RJ têm prazo até 22 de março de 2026 para realizar a autovistoria de gás, com prazos que variam por cidade e bairro da capital fluminense.
+
+---
+
+### 3. Decreto-Lei Estadual nº 247/1975 e Decreto nº 42/2018 — Código de Segurança Contra Incêndio e Pânico (COSCIP)
+
+O Corpo de Bombeiros do Estado do Rio de Janeiro (CBMERJ) aplica as normas de segurança contra incêndio e pânico previstas no Decreto-lei nº 247/1975, regulamentada pelo Decreto nº 897/1976, atualizado pelo Decreto nº 42/2018. Essa legislação prevê diversos parâmetros para os dispositivos fixos e móveis dos edifícios, para garantir a segurança contra incêndios.
+
+As principais exigências para condomínios incluem: obtenção e renovação do **AVCB** (Auto de Vistoria do Corpo de Bombeiros), manutenção de extintores, hidrantes, sprinklers, saídas de emergência e brigada de incêndio treinada.
+
+O regulamento também proíbe a utilização de botijões de gás em prédios residenciais com **mais de cinco apartamentos** e comerciais em geral, a não ser no térreo ou do lado de fora da edificação. Nas edificações com gás canalizado, botijões ou cilindros são vetados.
+
+---
+
+### 4. Lei Estadual nº 9.683/2022 — Divulgação de Canais de Denúncia de Violência
+
+A Lei nº 9.683/2022 atribui aos condomínios residenciais e comerciais a responsabilidade de informar e divulgar os canais oficiais de denúncia de violência e negligência contra crianças e adolescentes, por meio de **cartazes ou placas nas áreas comuns e de circulação** dos condomínios. Os cartazes devem ter medidas mínimas do formato A4.
+
+---
+
+## 🏙️ LEIS MUNICIPAIS (Município do Rio de Janeiro — Câmara Municipal)
+
+### 5. Lei Complementar Municipal nº 257/2022 — Bloqueio de Janelas e Varandas nas Áreas Comuns
+
+As janelas e varandas localizadas em **áreas comuns** de prédios e condomínios deverão ser bloqueadas com **telas, grades ou redes**. A instalação deve ser respaldada por ART ou RRT de profissional habilitado. O descumprimento acarretará advertência, com notificação para regularização em até 30 dias, e multa de **R$ 2.000,00** em caso de reincidência.
+
+A medida se aplica apenas às áreas comuns e não às unidades autônomas (apartamentos). O condomínio ficará responsável pelo fechamento das janelas e varandas situadas em locais como playground, salão de festas e outros espaços de convivência.
+
+---
+
+### 6. Lei Complementar Municipal nº 259/2022 — Acessibilidade nos Elevadores
+
+A Lei Complementar nº 259, de 21/12/2022, estabelece a obrigatoriedade da **instalação de sinalização tátil e sonora nos elevadores** de uso público, coletivo e privado em edificações multifamiliares situadas no Município do Rio de Janeiro, desde que disponham de elevadores para uso coletivo. A sinalização sonora é composta por conjunto de sons que permitem a compreensão pela audição, e a tátil por informações em relevo, como texto, símbolos e braile. O descumprimento pode resultar em multas de R$ 2.000,00.
+
+---
+
+### 7. Lei Complementar Municipal nº 260/2023 — Fechamento de Varandas e Acréscimos em Coberturas
+
+A Lei Complementar nº 260, de 22 de maio de 2023, regulamenta o fechamento de varandas, acréscimos de coberturas, o licenciamento de jirau e de varanda em edificações comerciais, e a legalização de edificações destinadas à hospedagem no Município do Rio de Janeiro.
+
+---
+
+### 8. Lei Municipal nº 7.957/2023 — Proibição da Denominação "Social" e "Serviço" nos Elevadores
+
+A Lei Municipal nº 7.957, de 03 de julho de 2023, **proíbe a distinção dos elevadores pelos nomes "Social" e "Serviço"** no Município do Rio de Janeiro.
+
+---
+
+### 9. Lei Municipal nº 2.546/1997 — Uso dos Elevadores
+
+A Lei Municipal nº 2.546, de 12 de maio de 1997, determina que **não se deve jogar água nos halls dos elevadores** do prédio, e que **menores de 10 anos não podem andar desacompanhados nos elevadores**.
+
+---
+
+### 10. Lei Municipal nº 7.761/2023 — Identificação nos Painéis de Botões dos Elevadores
+
+A Lei Municipal nº 7.761/2023, aprovada no início de 2023 pela cidade do Rio de Janeiro, exclui do cumprimento das normas da ABNT as botoeiras dos elevadores, permitindo que prédios coloquem no painel de botões a indicação de qual pavimento o número ou letra correspondem, para facilitar a vida de moradores, visitantes e entregadores.
+
+---
+
+### 11. Lei Municipal nº 8.913/2025 — Comunicação de Violência Doméstica
+
+A Lei Municipal nº 8.913/2025 determina que os condomínios residenciais e comerciais do Município do Rio de Janeiro, por meio de seus síndicos ou administradores, **deverão comunicar à Delegacia de Polícia Civil ou aos órgãos municipais** a ocorrência ou suspeita de violência doméstica contra mulheres, crianças, adolescentes, idosos e animais. A comunicação imediata deve ser feita por ligação telefônica ou aplicativo nos casos em andamento, e por escrito em até 24 horas nas demais situações. O descumprimento sujeita o condomínio a multa de R$ 1.000,00.
+
+---
+
+### 12. Lei Municipal — Ruído e Lei do Silêncio
+
+A Lei do Silêncio estadual, que é antiga (de 1977), impõe limites de ruído entre 22h e 7h, com respeito a 85 decibéis nesse período. Contudo, na prática, ela não é aplicada dentro dos condomínios, pois a polícia não dispõe de decibelímetros, e os técnicos da Secretaria Municipal do Meio Ambiente restringem sua atuação a estabelecimentos comerciais e outros, não fiscalizando condomínios. A Secretaria aplica a Lei nº 3.268, que impõe o limite de 55 decibéis durante o dia.
+
+---
+
+## 📋 Resumo Geral
+
+| Lei | Esfera | Assunto |
+|---|---|---|
+| Lei Estadual 6.400/2013 | Estado RJ | Autovistoria predial obrigatória (a cada 5 ou 10 anos) |
+| Lei Estadual 6.890/2014 | Estado RJ | Inspeção periódica de gás (IPG) |
+| Decreto-Lei 247/1975 + Decreto 42/2018 | Estado RJ | Código de Segurança contra Incêndio — COSCIP/AVCB |
+| Decreto 897/1976 | Estado RJ | Proibição de botijão de gás em prédios com mais de 5 aptos |
+| Lei Estadual 9.683/2022 | Estado RJ | Cartazes de denúncia de violência contra crianças e adolescentes |
+| Lei Compl. Municipal 257/2022 | Município RJ | Bloqueio de janelas e varandas em áreas comuns |
+| Lei Compl. Municipal 259/2022 | Município RJ | Sinalização tátil e sonora obrigatória nos elevadores |
+| Lei Compl. Municipal 260/2023 | Município RJ | Fechamento de varandas e acréscimos em coberturas |
+| Lei Municipal 7.957/2023 | Município RJ | Fim da nomenclatura "Social"/"Serviço" nos elevadores |
+| Lei Municipal 7.761/2023 | Município RJ | Identificação dos pavimentos nos botões dos elevadores |
+| Lei Municipal 2.546/1997 | Município RJ | Uso de elevadores — crianças e proibição de jogar água |
+| Lei Municipal 8.913/2025 | Município RJ | Comunicação de violência doméstica ao poder público |
+
+> **Importante:** Nenhuma dessas leis locais altera as regras de votação e quórum das assembleias, que são matéria exclusiva do **Código Civil federal** e, subsidiariamente, da **Convenção do Condomínio**. As leis estaduais e municipais tratam de segurança, infraestrutura e convivência — nunca de governança interna condominial.
